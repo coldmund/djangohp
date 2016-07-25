@@ -1,0 +1,17 @@
+h1
+{
+	font-size: 22pt;
+	font-weight: bold;
+}
+
+td
+{
+	width: 110px;
+	font-size: 12pt;
+	font-weight: bold;
+}
+
+a:link
+{
+	text-decoration: none;
+}

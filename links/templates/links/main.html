@@ -1,0 +1,34 @@
+{% load staticfiles %}
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<title>my bookmarks</title>
+	<link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}">
+</head>
+
+<body background="{% static 'image/t61.jpg' %}">
+	<a href="about:blank" target="_blank"><span style="font-size: 25px">blank</span></a>
+	
+	{% for category in links %}
+	{% for key, value in category.items %}
+	<h1>{{ key }}</h1>
+	<table>
+		<tr>
+		{% for title, url in value %}
+			<td><a href="{{ url }}" target="_blank">{{ title }}</a></td>
+		{% if forloop.counter|divisibleby:7 %}
+		</tr>
+		<tr>
+		{% endif %}
+		{% endfor %}
+		</tr>
+	</table>
+	{% endfor %}
+	{% endfor %}
+</body>
+
+</html>
