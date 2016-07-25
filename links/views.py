@@ -3,7 +3,7 @@ import json
 
 # Create your views here.
 def	links(request):
-	f = open('links/links.json', 'r')
+	f = open('links/links.json', 'r', encoding='utf-8')
 	js = json.loads(f.read())
 	f.close()
 	sortedList = []
