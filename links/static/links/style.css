@@ -1,23 +1,18 @@
-body
-{
-	font-family: Verdana;
-	background-image: url('t61.jpg');
+body {
+	background: url("images/t61.jpg")
 }
 
-h1
-{
+h1 {
 	font-size: 22pt;
 	font-weight: bold;
 }
 
-td
-{
+td {
 	width: 110px;
-	font-size: 11pt;
+	font-size: 12pt;
 	font-weight: bold;
 }
 
-a:link
-{
+a:link {
 	text-decoration: none;
 }
