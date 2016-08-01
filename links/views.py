@@ -1,9 +1,10 @@
 from django.shortcuts import render
 import json
+import os
 
 # Create your views here.
 def	links(request):
-	f = open('links/links.json', 'r', encoding='utf-8')
+	f = open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'links.json'), 'r', encoding='utf-8')
 	js = json.loads(f.read())
 	f.close()
 	sortedList = []
