@@ -1,7 +1,6 @@
 [
 	{
 		"info": {
-			"김근태": "http://www.gt21.or.kr/",
 			"명의도용방지": "http://www.msafer.or.kr/index.jsp",
 			"딴지일보": "http://www.ddanzi.com/",
 			"롯데카드": "http://www.lottecard.co.kr/",
@@ -11,6 +10,7 @@
 			"연합뉴스": "http://www.yonhapnews.co.kr/",
 			"우리은행": "http://www.wooribank.com/",
 			"우리투자증권": "http://www.wooriwm.com/",
+			"우리카드": "http://www.wooricard.co.kr/",
 			"유진투자증권": "http://www.eugenefn.com/",
 			"인터넷지로": "http://www.giro.or.kr/",
 			"전자민원": "http://www.egov.go.kr/",
@@ -18,8 +18,7 @@
 			"현대카드": "http://www.hyundaicard.com/",
 			"biblegateway": "http://www.biblegateway.com/",
 			"fine drive": "http://www.fine-drive.com/",
-			"franktime": "http://www.franktime.com/",
-			"HDSP": "http://hdsp.yonsei.ac.kr/",
+			"HDSP": "http://web.yonsei.ac.kr/hdsp/",
 			"holy bible": "http://www.holybible.or.kr/",
 			"KEB하나은행": "http://www.kebhana.com/",
 			"lg u+": "http://www.uplus.co.kr/",
@@ -63,8 +62,8 @@
 			"osalt": "http://www.osalt.com/",
 			"thefreecountry": "http://www.thefreecountry.com",
 			"unicode": "http://www.unicode.org/",
-			"u+box": "http://simfile.uplusbox.co.kr/",
-			"woobi": "http://woobi.co.kr/"
+			"woobi": "http://woobi.co.kr/",
+			"raspberry pi": "https://www.raspberrypi.org/"
 		}
 	},
 	{
@@ -122,7 +121,6 @@
 			"interpark": "http://www.interpark.com/",
 			"io mania": "http://www.iomania.co.kr",
 			"ppomppu": "http://www.ppomppu.co.kr",
-			"sony style": "http://www.sonystyle.co.kr",
 			"ticket link": "http://www.ticketlink.co.kr/",
 			"yes24": "http://www.yes24.com/"
 		}
@@ -130,17 +128,13 @@
 	{
 		"fun": {
 			"5인용": "http://5p.olivegame.com/",
-			"삼국전투기": "http://comic.naver.com/webtoon/list.nhn?titleId=22027",
 			"야매요리": "http://blog.naver.com/usamibabe",
 			"오늘의유머": "http://www.todayhumor.co.kr/",
 			"천년바위": "http://www.bawi.org/",
 			"angolmois": "http://angolmois.net/",
-			"bugs": "http://www.bugs.co.kr/",
-			"cowon": "http://www.cowon.com/",
 			"dcinside": "http://www.dcinside.com",
 			"dilbert": "http://www.dilbert.com/",
 			"go classic": "http://www.goclassic.co.kr/",
-			"grooveshark": "http://grooveshark.com/",
 			"head-fi": "http://www.head-fi.org/",
 			"headroom": "http://www.headphone.com/",
 			"iriver": "http://www.iriver.co.kr/",
@@ -149,15 +143,11 @@
 			"popco": "http://www.popco.net/",
 			"rainy mood": "http://www.rainymood.com/",
 			"ssmaya": "http://ssmaya.com/",
-			"TED": "http://www.ted.com/",
-			"winxplanet": "http://user.chol.com/~winxplanet/"
+			"TED": "http://www.ted.com/"
 		}
 	},
 	{
 		"game": {
-			"addicted to pirates": "http://www.addictedtopirates.com/",
-			"alice soft": "http://www.alicesoft.com/",
-			"ELF": "http://www.elf-game.co.jp/",
 			"FFTA-Memo": "http://www5d.biglobe.ne.jp/~mint-f/ffta/index.html",
 			"F&C": "http://www.fandc.co.jp/",
 			"getchu.com": "http://www.getchu.com",
@@ -172,7 +162,6 @@
 	},
 	{
 		"snow": {
-			"웰리힐리파크": "http://www.wellihillipark.com/",
 			"일본스키": "http://www.ilbonski.com/",
 			"hungry boarder": "http://www.hungryboarder.com/",
 			"Phoenix park": "http://www.phoenixpark.co.kr/",
@@ -180,18 +169,9 @@
 		}
 	},
 	{
-		"golf": {
-			"군산CC": "http://www.gunsancc.net",
-			"ave sports": "http://www.avegolf.com/",
-			"golfspy": "http://www.golfspy.co.kr/",
-			"golfzon": "http://www.golfzon.co.kr/"
-		}
-	},
-	{
 		"temporal": {
 			"funny farm": "http://shygypsy.com/farm/p.cgi",
 			"星探3": "http://hoshisaga.jp/hoshi3/",
-			"dragon hoard": "http://community.gencon.com/dragonhoard/#"
 		}
 	}
 ]
