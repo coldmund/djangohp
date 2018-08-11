@@ -23,12 +23,15 @@
 			"KEB하나은행": "http://www.kebhana.com/",
 			"lg u+": "http://www.uplus.co.kr/",
 			"Oh my news": "http://www.ohmynews.com/",
-			"paxnet": "http://paxnet.moneta.co.kr/",
 			"SBI저축은행": "http://www.sbisb.co.kr/",
 			"SC은행": "http://www.scbank.co.kr/",
 			"tucson love": "http://www.tucsonlove.co.kr/",
 			"미래에셋생명": "http://life.miraeasset.com/",
-			"lendit": "http://www.lendit.co.kr/"
+			"lendit": "http://www.lendit.co.kr/",
+			"8퍼센트": "https://8percent.kr/",
+			"테라펀딩": "https://www.terafunding.com/",
+			"피플펀드": "https://www.peoplefund.co.kr/",
+			"TED": "http://www.ted.com/"
 		}
 	},
 	{
@@ -62,7 +65,6 @@
 			"osalt": "http://www.osalt.com/",
 			"thefreecountry": "http://www.thefreecountry.com",
 			"unicode": "http://www.unicode.org/",
-			"woobi": "http://woobi.co.kr/",
 			"raspberry pi": "https://www.raspberrypi.org/"
 		}
 	},
@@ -122,7 +124,9 @@
 			"io mania": "http://www.iomania.co.kr",
 			"ppomppu": "http://www.ppomppu.co.kr",
 			"ticket link": "http://www.ticketlink.co.kr/",
-			"yes24": "http://www.yes24.com/"
+			"yes24": "http://www.yes24.com/",
+			"쿠팡": "http://www.coupang.com/",
+			"gmarket": "http://www.gmarket.co.kr/"
 		}
 	},
 	{
@@ -138,12 +142,8 @@
 			"head-fi": "http://www.head-fi.org/",
 			"headroom": "http://www.headphone.com/",
 			"iriver": "http://www.iriver.co.kr/",
-			"kukudas": "http://www.kukudas.com/",
 			"madoka87": "http://madoka87.zio.to/",
-			"popco": "http://www.popco.net/",
-			"rainy mood": "http://www.rainymood.com/",
-			"ssmaya": "http://ssmaya.com/",
-			"TED": "http://www.ted.com/"
+			"popco": "http://www.popco.net/"
 		}
 	},
 	{
