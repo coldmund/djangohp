@@ -3,37 +3,41 @@
 		"info": {
 			"명의도용방지": "http://www.msafer.or.kr/index.jsp",
 			"딴지일보": "http://www.ddanzi.com/",
-			"롯데카드": "http://www.lottecard.co.kr/",
 			"부동산114": "http://www.r114.com/",
+			"연합뉴스": "http://www.yonhapnews.co.kr/",
+			"전자민원": "http://www.egov.go.kr/",
+			"한겨레": "http://www.hani.co.kr/index.html",
+			"biblegateway": "http://www.biblegateway.com/",
+			"fine drive": "http://www.fine-drive.com/",
+			"HDSP": "http://web.yonsei.ac.kr/hdsp/",
+			"holy bible": "http://www.holybible.or.kr/",
+			"lg u+": "http://www.uplus.co.kr/",
+			"Oh my news": "http://www.ohmynews.com/",
+			"tucson love": "http://www.tucsonlove.co.kr/",
+			"TED": "http://www.ted.com/"
+		}
+	},
+	{
+		"financial": {
+			"롯데카드": "http://www.lottecard.co.kr/",
 			"신한은행": "http://www.shinhan.com",
 			"신한카드": "http://www.shinhancard.com/",
-			"연합뉴스": "http://www.yonhapnews.co.kr/",
 			"우리은행": "http://www.wooribank.com/",
 			"우리투자증권": "http://www.wooriwm.com/",
 			"우리카드": "http://www.wooricard.co.kr/",
 			"유진투자증권": "http://www.eugenefn.com/",
 			"인터넷지로": "http://www.giro.or.kr/",
-			"전자민원": "http://www.egov.go.kr/",
-			"한겨레": "http://www.hani.co.kr/index.html",
 			"현대카드": "http://www.hyundaicard.com/",
-			"biblegateway": "http://www.biblegateway.com/",
-			"fine drive": "http://www.fine-drive.com/",
-			"HDSP": "http://web.yonsei.ac.kr/hdsp/",
-			"holy bible": "http://www.holybible.or.kr/",
 			"KEB하나은행": "http://www.kebhana.com/",
-			"lg u+": "http://www.uplus.co.kr/",
-			"Oh my news": "http://www.ohmynews.com/",
 			"SBI저축은행": "http://www.sbisb.co.kr/",
 			"SC은행": "http://www.scbank.co.kr/",
-			"tucson love": "http://www.tucsonlove.co.kr/",
 			"미래에셋생명": "http://life.miraeasset.com/",
 			"lendit": "http://www.lendit.co.kr/",
 			"8퍼센트": "https://8percent.kr/",
 			"테라펀딩": "https://www.terafunding.com/",
-			"피플펀드": "https://www.peoplefund.co.kr/",
-			"TED": "http://www.ted.com/"
+			"피플펀드": "https://www.peoplefund.co.kr/"
 		}
-	},
+	}
 	{
 		"programming": {
 			"생활코딩": "http://opentutorials.org/course/1",
